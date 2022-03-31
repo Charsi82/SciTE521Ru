@@ -1,0 +1,62 @@
+# SciTE session file
+
+position.left=483
+position.top=209
+position.width=1059
+position.height=764
+position.maximize=0
+
+mru.1.path=C:\Users\User\Desktop\test_libs\test_comment_utf8.lua
+mru.2.path=E:\scite520\scite\binReleasex64\tools\SciTEStartup.lua
+mru.3.path=C:\Users\User\Desktop\scan.lua
+mru.4.path=e:\scite-ruboard\src\scintilla\lexers\LexOthers.cxx
+mru.5.path=C:\Users\User\Desktop\test_libs\test_bat.bat
+mru.6.path=C:\Users\User\Documents\test.lua
+mru.7.path=e:\scite520\scite\win32\SciTERes.aps
+mru.8.path=E:\scite520\scite\binReleasex64\home\SciTEUser.properties
+mru.9.path=E:\scite520\scite\binReleasex64\SciTEGlobal.properties
+mru.10.path=C:\Users\User\Desktop\mod_copy.lua
+mru.11.path=E:\scite520\scite\src\SciTE_RB_defs.h
+mru.12.path=C:\Users\User\Desktop\Безымянный0.lua
+mru.13.path=C:\Users\User\Desktop\start.lua
+mru.14.path=E:\scite521\scite\binReleasex64\SciTEToolsMenu.properties
+mru.15.path=E:\scite521\scite\binReleasex64\home\SciTEUser.properties
+mru.16.path=C:\Users\User\Desktop\test_libs\test_gui.lua
+mru.17.path=C:\Users\User\Desktop\test_libs\test_comment_win1251.lua
+mru.18.path=C:\Users\User\Desktop\test_libs\test_lfs 1.lua
+mru.19.path=C:\Users\User\Desktop\lua_ud.cpp
+mru.20.path=C:\Users\User\Desktop\test_libs\test_test.lua
+mru.21.path=E:\тестовая папка\Текстовый документ.lua
+mru.22.path=E:\scite521\scite\binReleasex64\home\abbrev.properties
+mru.23.path=C:\Users\User\Desktop\test_libs\python3_keywords.properties
+mru.24.path=E:\scite521\scite\binReleasex64\python3.api
+mru.25.path=E:\scite521\scite\binReleasex64\api\python3.api
+mru.26.path=E:\scite521\scite\binReleasex64\languages\python3_keywords.properties
+mru.27.path=C:\Users\User\Desktop\test_libs\test_py — копия.py
+mru.28.path=E:\scite521\scite\binReleasex64\SciTEGlobal.properties
+mru.29.path=E:\scite521\scite\binReleasex64\languages\python.properties
+mru.30.path=C:\Users\User\Desktop\test_libs\test_py.py
+
+search.1.findwhat=api
+search.2.findwhat=calltip.python.use.escapes
+search.3.findwhat= api.$(file.patterns.py)
+
+buffer.1.path=C:\Users\User\Desktop\test_libs\test_py.py
+buffer.1.position=54
+buffer.1.scroll=0
+buffer.1.current=1
+
+toolbar.visible=1
+tabbar.visible=1
+statusbar.visible=1
+view.whitespace=1
+view.eol=0
+view.indentation.guides=1
+line.margin.visible=1
+split.vertical=0
+wrap=0
+output.wrap=1
+magnification=0
+print.magnification=0
+sidebar.show=1
+highlighting.identical.text=1
